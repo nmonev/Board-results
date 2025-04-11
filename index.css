@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    background-color: #1B244A;
+    height: 385px;
+    width: 575px;
+}
+
+.text {
+    color: #EEEEEE;
+    font-family: Verdana;
+    font-size: 40px;
+    margin-top: 68px;
+    font-weight: 700;
+}
+.box {
+    border-radius: 5px;
+    background-color: #080001;
+    margin-top: 21px;
+    width: 155px;
+    height: 120px;
+}
+.inner-box {
+    color: #F94F6D;
+    font-family: Cursed Timer ULiL;
+    font-size: 90px;
+    text-align: center;
+    margin: auto;
+    padding: auto;
+}
+.buttons-inc {
+    width: 155px;
+    height: 45px;
+    display: flex;
+    justify-content: space-around;
+    color: #9AABD8;
+    margin-top: 26px;
+    font-family: Cursed Timer ULiL;
+}
+.incremend {
+    border-radius: 5px;
+    border: 2px solid #9AABD8;
+    padding: 9px 8px
+}
